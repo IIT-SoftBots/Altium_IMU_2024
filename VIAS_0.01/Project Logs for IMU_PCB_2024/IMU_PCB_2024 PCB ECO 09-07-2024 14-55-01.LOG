@@ -1,0 +1,247 @@
+Added Component: Designator=C1(C0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IN(SM10B-XSRS-ETB)
+Add component (AddParameter): Name = "Catalogue Price"; Value = "1,192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connecteurs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://datasheet.octopart.com/SM10B-XSRS-ETB-JST-datasheet-12514066.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://datasheet.octopart.com/SM10B-XSRS-ETB-JST-datasheet-12514066.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1706598.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1706598.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Termination Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Courant"; Value = "0.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Currency"; Value = "EUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SM10B-XSRS-ETB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Matériau du contact"; Value = "Alliage de cuivre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "mounting_style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Méthode de raccordement"; Value = "Montage en surface"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Contacts"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nombre de contacts"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nombre de rangées"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_contacts"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Numéro de série"; Value = "SM10B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Url"; Value = "http://octopart.com/sm10b-xsrs-etb-jst-29522047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "60b7a87f3daebf70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation du corps"; Value = "Droit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pas"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch Spacing"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "XSR Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Status"; Value = "IN_STOCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product StockNumber"; Value = "820-1677"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rohs_status"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seller Landing  Url"; Value = "https://octopart-clicks.com/click/track?country=IT&ak=8157f166&sig=06796d5&sid=2402&ppid=29522047&vpid=200245201&ct=offers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "RS-Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "90W0858"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "820-1677"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Séries"; Value = "XSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tension"; Value = "30 V c.a./c.c."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Fil à carte"; VariantName = "[No Variations]"
+Added Component: Designator=OUT(SM10B-XSRS-ETB)
+Add component (AddParameter): Name = "Catalogue Price"; Value = "1,192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connecteurs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://datasheet.octopart.com/SM10B-XSRS-ETB-JST-datasheet-12514066.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://datasheet.octopart.com/SM10B-XSRS-ETB-JST-datasheet-12514066.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1706598.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1706598.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Termination Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Courant"; Value = "0.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Currency"; Value = "EUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SM10B-XSRS-ETB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Matériau du contact"; Value = "Alliage de cuivre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "mounting_style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Méthode de raccordement"; Value = "Montage en surface"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Contacts"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nombre de contacts"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nombre de rangées"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_contacts"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Numéro de série"; Value = "SM10B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Url"; Value = "http://octopart.com/sm10b-xsrs-etb-jst-29522047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "60b7a87f3daebf70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation du corps"; Value = "Droit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pas"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch Spacing"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "XSR Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Status"; Value = "IN_STOCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product StockNumber"; Value = "820-1677"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rohs_status"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seller Landing  Url"; Value = "https://octopart-clicks.com/click/track?country=IT&ak=8157f166&sig=06796d5&sid=2402&ppid=29522047&vpid=200245201&ct=offers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "RS-Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "90W0858"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "820-1677"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Séries"; Value = "XSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tension"; Value = "30 V c.a./c.c."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Fil à carte"; VariantName = "[No Variations]"
+Added Component: Designator=R1(STA_RMCF0402_STP)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(LGA-14L_STM)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U2(LGA-12_2X2X1_STM)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U3(DFN4_1X1_STM)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U4(RUT12_TEX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1V8 Pin=C1-2
+Added Pin To Net: NetName=1V8 Pin=C2-2
+Added Pin To Net: NetName=1V8 Pin=C4-2
+Added Pin To Net: NetName=1V8 Pin=C5-2
+Added Pin To Net: NetName=1V8 Pin=C6-2
+Added Pin To Net: NetName=1V8 Pin=C8-2
+Added Pin To Net: NetName=1V8 Pin=R1-2
+Added Pin To Net: NetName=1V8 Pin=U1-5
+Added Pin To Net: NetName=1V8 Pin=U1-8
+Added Pin To Net: NetName=1V8 Pin=U2-3
+Added Pin To Net: NetName=1V8 Pin=U2-9
+Added Pin To Net: NetName=1V8 Pin=U2-10
+Added Pin To Net: NetName=1V8 Pin=U3-1
+Added Pin To Net: NetName=1V8 Pin=U4-1
+Added Net: Name=1V8
+Added Pin To Net: NetName=Csi_1V8 Pin=U1-12
+Added Pin To Net: NetName=Csi_1V8 Pin=U4-2
+Added Net: Name=Csi_1V8
+Added Pin To Net: NetName=Csi Pin=IN-6
+Added Pin To Net: NetName=Csi Pin=U4-10
+Added Net: Name=Csi
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=IN-2
+Added Pin To Net: NetName=GND Pin=OUT-2
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Net: Name=GND
+Added Pin To Net: NetName=INT1 Pin=OUT-10
+Added Pin To Net: NetName=INT1 Pin=U1-4
+Added Net: Name=INT1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-5
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetIN_7 Pin=IN-7
+Added Pin To Net: NetName=NetIN_7 Pin=OUT-6
+Added Net: Name=NetIN_7
+Added Pin To Net: NetName=NetIN_8 Pin=IN-8
+Added Pin To Net: NetName=NetIN_8 Pin=OUT-7
+Added Net: Name=NetIN_8
+Added Pin To Net: NetName=NetIN_9 Pin=IN-9
+Added Pin To Net: NetName=NetIN_9 Pin=OUT-8
+Added Net: Name=NetIN_9
+Added Pin To Net: NetName=NetIN_10 Pin=IN-10
+Added Pin To Net: NetName=NetIN_10 Pin=OUT-9
+Added Net: Name=NetIN_10
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U4-12
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U2-4
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U2-1
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=SCK_1V8 Pin=U1-13
+Added Pin To Net: NetName=SCK_1V8 Pin=U4-5
+Added Net: Name=SCK_1V8
+Added Pin To Net: NetName=SCK Pin=IN-3
+Added Pin To Net: NetName=SCK Pin=OUT-3
+Added Pin To Net: NetName=SCK Pin=U4-7
+Added Net: Name=SCK
+Added Pin To Net: NetName=SDI_1V8 Pin=U1-14
+Added Pin To Net: NetName=SDI_1V8 Pin=U4-4
+Added Net: Name=SDI_1V8
+Added Pin To Net: NetName=SDI Pin=IN-4
+Added Pin To Net: NetName=SDI Pin=OUT-4
+Added Pin To Net: NetName=SDI Pin=U4-8
+Added Net: Name=SDI
+Added Pin To Net: NetName=SDO_1V8 Pin=U1-1
+Added Pin To Net: NetName=SDO_1V8 Pin=U4-3
+Added Net: Name=SDO_1V8
+Added Pin To Net: NetName=SDO Pin=IN-5
+Added Pin To Net: NetName=SDO Pin=OUT-5
+Added Pin To Net: NetName=SDO Pin=U4-9
+Added Net: Name=SDO
+Added Pin To Net: NetName=VDD Pin=C9-2
+Added Pin To Net: NetName=VDD Pin=IN-1
+Added Pin To Net: NetName=VDD Pin=OUT-1
+Added Pin To Net: NetName=VDD Pin=U3-3
+Added Pin To Net: NetName=VDD Pin=U3-4
+Added Pin To Net: NetName=VDD Pin=U4-11
+Added Net: Name=VDD
+Added Class: Name=IMU_PCB_2024
+Added Room: Name=IMU_PCB_2024

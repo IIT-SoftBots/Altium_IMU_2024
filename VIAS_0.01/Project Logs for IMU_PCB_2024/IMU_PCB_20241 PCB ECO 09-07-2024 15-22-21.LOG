@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=IN1 NewDesignator=IN
+Change Component Designator: OldDesignator=OUT1 NewDesignator=OUT
+Added Component: Designator=R1(R0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=1V8 Pin=R1-2
+Change Net Name : Old Net Name=NetIN1_7 New Net Name=NetIN_7
+Change Net Name : Old Net Name=NetIN1_8 New Net Name=NetIN_8
+Change Net Name : Old Net Name=NetIN1_9 New Net Name=NetIN_9
+Change Net Name : Old Net Name=NetIN1_10 New Net Name=NetIN_10
+Added Member To Class: ClassName=IMU_PCB_2024 Member=Component R1 10K
+Added Room: Name=IMU_PCB_2024

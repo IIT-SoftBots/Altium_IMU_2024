@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LSM6DSRX_LIS2MDL.PrjPcb]
+   Generated File[IMU_PCB_20241_VIAS02.TXT]
+   Generated File[IMU_PCB_20241_VIAS02.LDP]
+   Generated File[IMU_PCB_20241_VIAS02.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:13:06 On 22/07/2024

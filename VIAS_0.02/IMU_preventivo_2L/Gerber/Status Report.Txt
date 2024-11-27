@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LSM6DSRX_LIS2MDL.PrjPcb]
+   Generated File[IMU_PCB_20241_VIAS02.GTO]
+   Generated File[IMU_PCB_20241_VIAS02.GTP]
+   Generated File[IMU_PCB_20241_VIAS02.GTS]
+   Generated File[IMU_PCB_20241_VIAS02.GTL]
+   Generated File[IMU_PCB_20241_VIAS02.GBL]
+   Generated File[IMU_PCB_20241_VIAS02.GBS]
+   Generated File[IMU_PCB_20241_VIAS02.GBP]
+   Generated File[IMU_PCB_20241_VIAS02.GBO]
+   Generated File[IMU_PCB_20241_VIAS02.GM15]
+   Generated File[IMU_PCB_20241_VIAS02.GM13]
+   Generated File[IMU_PCB_20241_VIAS02.GM1]
+   Generated File[IMU_PCB_20241_VIAS02.GKO]
+   Generated File[IMU_PCB_20241_VIAS02.GPT]
+   Generated File[IMU_PCB_20241_VIAS02.GPB]
+   Generated File[IMU_PCB_20241_VIAS02.GD1]
+   Generated File[IMU_PCB_20241_VIAS02.GG1]
+   Generated File[IMU_PCB_20241_VIAS02.GM]
+   Generated File[IMU_PCB_20241_VIAS02.RUL]
+   Generated File[IMU_PCB_20241_VIAS02.EXTREP]
+   Generated File[IMU_PCB_20241_VIAS02.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 18:14:17 On 22/07/2024

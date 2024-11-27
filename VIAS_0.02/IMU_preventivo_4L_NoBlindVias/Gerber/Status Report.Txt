@@ -1,0 +1,31 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LSM6DSRX_LIS2MDL.PrjPcb]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GTO]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GTP]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GTS]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GTL]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.G1]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.G2]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GBL]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GBS]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GBP]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GBO]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GM15]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GM13]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GM1]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GKO]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GPT]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GPB]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GD1]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GG1]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.GM]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.RUL]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.EXTREP]
+   Generated File[IMU_PCB_2024_4Layers_noBlindVias.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 18:23:37 On 22/07/2024

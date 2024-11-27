@@ -1,0 +1,10 @@
+Added Component: Designator=IC?(QFN40P300X300X105-25N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ICM-20948"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/icm-20948/invensense?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000189-icm-20948-v1.3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ICM-20948"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "410-ICM-20948"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK-InvenSense/ICM-20948?qs=u4fy%2FsgLU9OtGc31yF%2Friw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=qbI0000115v1.1.1 Member=Component IC? ICM-20948

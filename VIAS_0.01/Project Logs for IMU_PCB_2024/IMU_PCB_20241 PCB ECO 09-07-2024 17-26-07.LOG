@@ -1,0 +1,15 @@
+Change Physical Footprint: Designator=C1 Old Footprint=C0402 New Footprint=C0402
+Change Physical Footprint: Designator=C2 Old Footprint=C0402 New Footprint=C0402
+Change Physical Footprint: Designator=C3 Old Footprint=C0402 New Footprint=C0402
+Change Physical Footprint: Designator=C4 Old Footprint=C0402 New Footprint=C0402
+Change Physical Footprint: Designator=C5 Old Footprint=C0402 New Footprint=C0402
+Change Physical Footprint: Designator=C6 Old Footprint=C0402 New Footprint=C0402
+Change Physical Footprint: Designator=C7 Old Footprint=C0402 New Footprint=C0402
+Change Physical Footprint: Designator=C8 Old Footprint=C0402 New Footprint=C0402
+Change Physical Footprint: Designator=C9 Old Footprint=C0402 New Footprint=C0402
+Change Physical Footprint: Designator=IN Old Footprint=SM10B-XSRS-ETB New Footprint=SM10B-XSRS-ETB
+Change Physical Footprint: Designator=OUT Old Footprint=SM10B-XSRS-ETB New Footprint=SM10B-XSRS-ETB
+Change Physical Footprint: Designator=R1 Old Footprint=R0402 New Footprint=R0402
+Change Physical Footprint: Designator=U2 Old Footprint=LGA-12_2X2X1_STM New Footprint=LGA-12_2X2X1_STM
+Change Physical Footprint: Designator=U3 Old Footprint=DFN4_1X1_STM New Footprint=DFN4_1X1_STM
+Change Physical Footprint: Designator=U4 Old Footprint=RUT12_TEX New Footprint=RUT12_TEX

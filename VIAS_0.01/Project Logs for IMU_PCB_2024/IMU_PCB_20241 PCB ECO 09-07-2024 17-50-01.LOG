@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=SDO_1V8 Pin=-1
+Removed Pin From Net: NetName=NetU1_2 Pin=-2
+Removed Pin From Net: NetName=NetU1_3 Pin=-3
+Removed Pin From Net: NetName=INT1 Pin=-4
+Removed Pin From Net: NetName=1V8 Pin=-5
+Removed Pin From Net: NetName=GND Pin=-6
+Removed Pin From Net: NetName=GND Pin=-7
+Removed Pin From Net: NetName=1V8 Pin=-8
+Removed Pin From Net: NetName=Csi_1V8 Pin=-12
+Removed Pin From Net: NetName=SCK_1V8 Pin=-13
+Removed Pin From Net: NetName=SDI_1V8 Pin=-14
+Add Component: Footprint Not Found LSM6DSRXTR
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Class Member: Failed to add class member : Component U1 LSM6DSRXTR_1
